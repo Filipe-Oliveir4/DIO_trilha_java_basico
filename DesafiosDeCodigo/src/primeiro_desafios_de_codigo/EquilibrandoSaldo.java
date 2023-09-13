@@ -14,6 +14,6 @@ public class EquilibrandoSaldo {
        System.out.println("Saldo atualizado na conta: "+saldoAtual);
     		   
 
-     //TODO: Imprimir o a saída de conforme a tabela de exemplos (uma casa decimal).
+       scanner.close();
     }
 }

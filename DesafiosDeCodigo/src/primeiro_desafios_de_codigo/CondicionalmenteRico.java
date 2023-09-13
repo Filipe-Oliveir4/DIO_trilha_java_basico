@@ -16,6 +16,7 @@ public class CondicionalmenteRico {
 	    }else {
 	    	System.out.println("Saldo insuficiente. Saque nao realizado!");
 	    }
+	    scanner.close();
 	}
 
 }

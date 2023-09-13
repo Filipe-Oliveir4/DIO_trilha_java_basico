@@ -1,7 +1,5 @@
 package primeiro_desafios_de_codigo;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class BancoOrganizadorAtivos {
@@ -33,6 +31,7 @@ public class BancoOrganizadorAtivos {
     for (int i = 0; i < ativos.size(); i++) {
 		System.out.println(ativos.get(i));
 	}
+    scanner.close();
   }
 }
 
